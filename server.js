@@ -20,7 +20,7 @@ let produtos = [
 
 // * Rota Principal
 app.get("/", (req, res) => {
-  res.send("Sevidor rodando com Express!")
+  res.send("API CRUD de Produtos!")
 })
 
 // * CREATE → Usando push() para criar o produto + req.body para Dados Enviados
