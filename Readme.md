@@ -119,6 +119,7 @@ Alguns métodos de JavaScript foram utilizados para manipular os dados do array 
 
 | Código | O que faz |
 |------|------|
+| `push()` | adicionar item |
 | `find()` | busca um item |
 | `filter()` | cria novo array filtrado |
 | `p.id == id` | mantém apenas o item correspondente ao ID |
@@ -145,4 +146,5 @@ Projeto desenvolvido para prática de **CRUD com API REST usando Express**.
   </td>
 </tr>
 </table>
+
 
