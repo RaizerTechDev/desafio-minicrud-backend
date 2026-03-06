@@ -98,6 +98,20 @@ node server.js
 
 ---
 
+## **🧠 Lógica Utilizada na API**
+
+Alguns métodos de JavaScript foram utilizados para manipular os dados do array que simula o banco de dados.
+
+| Código | O que faz |
+|------|------|
+| `find()` | acha um item |
+| `filter()` | cria novo array filtrado |
+| `p.id == id` | mantém apenas o item correspondente ao ID |
+| `p.id != id` | remove o item correspondente ao ID |
+
+Esses métodos permitem buscar, atualizar e remover produtos dentro da aplicação.
+---
+
 ## **👨‍💻 Autor**
 
 Projeto desenvolvido para prática de **CRUD com API REST usando Express**.
