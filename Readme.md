@@ -2,6 +2,21 @@
 
 API Backend desenvolvida com **Node.js** e **Express** para demonstrar as operações básicas de **CRUD** (Create, Read, Update, Delete).
 
+<br>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3zSF3Gnr7cxMbi6WoP/giphy.gif" align="center" height="55" width="55" /> 
+Demonstração-MiniCrud 
+<img src="https://media.giphy.com/media/E5DzZsofmgxc9wjbhX/giphy.gif" align="center" height="35" width="35" />
+
+<img height="480px" src="./assets/img/minicrud.gif" alt="Demo ReciclaTech" />
+
+</div>
+
+
+
+
 ---
 
 ## *📖 Sobre o Projeto
