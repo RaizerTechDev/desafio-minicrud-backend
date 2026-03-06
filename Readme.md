@@ -104,7 +104,7 @@ Alguns métodos de JavaScript foram utilizados para manipular os dados do array 
 
 | Código | O que faz |
 |------|------|
-| `find()` | buscar um item |
+| `find()` | busca um item |
 | `filter()` | cria novo array filtrado |
 | `p.id == id` | mantém apenas o item correspondente ao ID |
 | `p.id != id` | remove o item correspondente ao ID |
