@@ -19,7 +19,7 @@ Demonstração-MiniCrud
 
 ---
 
-## *📖 Sobre o Projeto
+## **📖 Sobre o Projeto**
 
 Esta aplicação é uma API REST Backend responsável por gerenciar produtos através de endpoints REST.
 
@@ -146,6 +146,7 @@ Projeto desenvolvido para prática de **CRUD com API REST usando Express**.
   </td>
 </tr>
 </table>
+
 
 
 
