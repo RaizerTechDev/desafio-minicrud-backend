@@ -76,7 +76,7 @@ npm install nodemon --save-dev
 
 ---
 
-### ***3️⃣ Executar o servidor***
+### ***3️⃣ Executar o servidor na porta (localhost:3000)***
 
 ```bash
 npm run dev
@@ -146,5 +146,6 @@ Projeto desenvolvido para prática de **CRUD com API REST usando Express**.
   </td>
 </tr>
 </table>
+
 
 
